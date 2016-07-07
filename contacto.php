@@ -46,6 +46,7 @@
 							<h2>Contactanos</h2>
 						</header>
 						<section class="wrapper style5">
+							<form action='sendmail.php' method='post'>
 								<div style="width: 80%;max-width: 600px;margin: 100px auto 100px auto">
 									<div class="row uniform">
 										<div class="12u$">
@@ -62,6 +63,7 @@
 										</div>
 										<div class="12u$">
 											<ul class="actions">
+												<li><input type="submit" name='submit' value="Enviar" class="special" /></li>
 											</ul>
 										</div>
 								</div>
