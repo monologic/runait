@@ -46,26 +46,26 @@
 							<h2>Contactanos</h2>
 						</header>
 						<section class="wrapper style5">
-							<div style="width: 80%;max-width: 600px;margin: 100px auto 100px auto">
-								<div class="row uniform">
-									<div class="12u$">
-										<input type="text" name="demo-name" id="demo-name" value="" placeholder="Nombre" />
-									</div>
-									<div class="12u$">
-										<input type="email" name="demo-email" id="demo-email" value="" placeholder="Email" />
-									</div>
-									<div class="12u$">
-										<input type="text" name="demo-name" id="demo-name" value="" placeholder="Asunto" />
-									</div>
-									<div class="12u$">
-										<textarea name="demo-message" id="demo-message" placeholder="Mensaje" rows="6"></textarea>
-									</div>
-									<div class="12u$">
-										<ul class="actions">
-											<li><input type="submit" value="Enviar" class="special" /></li>
-										</ul>
-									</div>
-							</div>
+								<div style="width: 80%;max-width: 600px;margin: 100px auto 100px auto">
+									<div class="row uniform">
+										<div class="12u$">
+											<input type="text" name="demo-name" id="demo-name" value="" placeholder="Nombre" />
+										</div>
+										<div class="12u$">
+											<input type="email" name="demo-email" id="demo-email" value="" placeholder="Email" />
+										</div>
+										<div class="12u$">
+											<input type="text" name="demo-asunto" id="demo-asunto" value="" placeholder="Asunto" />
+										</div>
+										<div class="12u$">
+											<textarea name="demo-message" id="demo-message" placeholder="Mensaje" rows="6"></textarea>
+										</div>
+										<div class="12u$">
+											<ul class="actions">
+											</ul>
+										</div>
+								</div>
+							</form>
 						</section>
 					</article>
 
